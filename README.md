@@ -49,20 +49,17 @@ http://localhost:3000
 
 ------------------------------
 
-🎯 Purpose of this Repository
+## 🎯 Purpose of this Repository
 
-Strengthen Node.js fundamentals
-
-Practice core backend concepts
-
-Maintain clean GitHub learning history
-
-Prepare for backend & internship-ready projects
+- Strengthen Node.js fundamentals
+- Practice core backend concepts
+- Maintain clean GitHub learning history
+- Prepare for backend & internship-ready projects
 
 ------------------------------
 
-👨‍💻 Author
+## 👨‍💻 Author
 
-Kushagra Tiwari
-Computer Science Engineering Student
-
+**Kushagra**  
+Computer Science Engineering Student  
+Learning Backend Development 🚀
