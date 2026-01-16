@@ -1,0 +1,15 @@
+{
+  "name": "node.js-basics",
+  "version": "1.0.0",
+  "description": "This repository documents my understanding of **Node.js fundamentals** before moving to backend frameworks like **Express.js**.",
+  "main": "index.js",
+  "directories": {
+    "example": "examples"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
