@@ -37,9 +37,6 @@ nodejs-basics/
 
 Make sure **Node.js** is installed.
 
-Run any example file using:
-
-```bash
 node examples/filename.js
 node examples/http-server.js
 
